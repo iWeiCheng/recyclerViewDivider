@@ -1,6 +1,7 @@
 # recyclerViewDivider
 recyclerView 分割线
 
+示例：
 recyclerView
 
  分割线添加默认分割线  灰色 2px 
@@ -16,3 +17,5 @@ recyclerView
  
    mRecyclerView.addItemDecoration(new RecyclerViewDivider(
       mContext, LinearLayoutManager.VERTICAL, 10, ContextCompat.getColor(mContext, R.color.divide_gray_color)));
+      
+      
